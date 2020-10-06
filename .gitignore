@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+/notifier/package-lock.json
+bin/
+.DS_Store
+.db.config.json
+db.json
